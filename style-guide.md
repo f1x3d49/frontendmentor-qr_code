@@ -3,6 +3,7 @@
 ## Layout
 
 The designs were created to the following widths:
+[label](style-guide.md)
 
 - Mobile: 375px
 - Desktop: 1440px
