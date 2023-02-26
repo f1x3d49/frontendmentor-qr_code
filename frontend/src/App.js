@@ -2,7 +2,7 @@ import QRCode from "./QR_Code";
 
 function App() {
   return (
-    <div className="bg-design_lgrey w-screen h-screen">
+    <div className="bg-design_lgrey flex justify-center absolute w-full h-full">
       <QRCode />
     </div>
   );

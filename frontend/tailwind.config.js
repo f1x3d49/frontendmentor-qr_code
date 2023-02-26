@@ -8,7 +8,11 @@ module.exports = {
       design_gblue: "hsl(var(--color-grayish-blue) / <alpha-value>)",
       design_dblue: "hsl(var(--color-dark-blue) / <alpha-value>)",
     },
-    extend: {},
+    extend: {
+      spacing: {
+        128: "30rem",
+      },
+    },
   },
   plugins: [],
 };
