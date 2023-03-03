@@ -31,4 +31,4 @@ I learned more about Tailwind, flexboxes and so many other things.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@f1x3d49](https://www.frontendmentor.io/profile/f1x3d49)
