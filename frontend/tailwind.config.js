@@ -8,9 +8,16 @@ module.exports = {
       design_gblue: "hsl(var(--color-grayish-blue) / <alpha-value>)",
       design_dblue: "hsl(var(--color-dark-blue) / <alpha-value>)",
     },
+    borderRadius: {
+      medium: "10px",
+      large: "20px",
+    },
     extend: {
       spacing: {
-        128: "30rem",
+        128: "28rem",
+      },
+      fontFamily: {
+        outfit: "Outfit",
       },
     },
   },
